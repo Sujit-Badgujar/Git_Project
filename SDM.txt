@@ -10,6 +10,7 @@
     to track the file (Current status)
 
 4. git commit -m "msg of upgradation":-
+<<<<<<< HEAD
     To commit any change
 
 5. git log :-
@@ -27,6 +28,34 @@
     shows diff betw staged files & last commited version
 
 10. 
+=======
+
+5. git log :-
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> master
 
 
 
