@@ -1,0 +1,36 @@
+-------------------------SDM - Commands & Functions--------------------------- 
+
+1. git init :-
+    to initialize a empty git repository 
+
+2. git add filename.extension :-
+    to add file in git
+
+3. git status :-
+    to track the file (Current status)
+
+4. git commit -m "msg of upgradation":-
+    To commit any change
+
+5. git log :-
+    to see stages of the commits
+
+6. git checkout commit-ID :-
+    To go on particular stage
+
+7. git ls-files --stage
+
+8. git diff :-
+    show unstaged files
+
+9. git diff --staged
+    shows diff betw staged files & last commited version
+
+10. 
+
+
+
+
+
+
+ 
